@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProxyChecker</string>
+    <string name="proxy">Proxy</string>
+    <string name="port">Port</string>
+    <string name="check_it">Check It</string>
+    <string name="get_ip_from_api">get ip from Api</string>
+    <string name="get_proxy_from_api">Get Proxy From Api</string>
+    <string name="ip">Ip</string>
+    <string name="size">size</string>
+
+</resources>
